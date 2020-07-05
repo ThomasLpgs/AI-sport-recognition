@@ -5,7 +5,7 @@ Ce projet a été réalisé dans le cadre d'un cours sur le Deep Learning à l'E
 
 Les sports suivants sont disponibles : baseball, basketball, football, footballamericain, golf, handball, pingpong, rugby, tennis, volleyball.
 
-L'IA a été entrainé avec 2 types d'images, des images où l'on voit seulement le ballon/la balle et des images où l'on voit des personnes jouer au sport.
+L'IA a été entrainée avec 2 types d'images, des images où l'on voit seulement le ballon/la balle et des images où l'on voit des personnes jouer au sport.
 L'IA est donc capable d'identifier un sport même s'il n'y a pas seulement le ballon/la balle sur l'image.
 
 # Outils utilisés
