@@ -8,6 +8,10 @@ Les sports suivants sont disponibles : baseball, basketball, football, footballa
 L'IA a été entrainée avec 2 types d'images, des images où l'on voit seulement le ballon/la balle et des images où l'on voit des personnes jouer au sport.
 L'IA est donc capable d'identifier un sport même s'il n'y a pas seulement le ballon/la balle sur l'image.
 
+Notre modèle entraîné est également disponible sur un site web : https://ai-test-jco.herokuapp.com/
+
+Le projet associé à ce site web est disponible ici : https://github.com/joconte/ai-sport-api
+
 # Outils utilisés
 
 - FastAI
