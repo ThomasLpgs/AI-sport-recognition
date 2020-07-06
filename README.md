@@ -16,6 +16,7 @@ Le projet associé à ce site web est disponible ici : https://github.com/jocont
 
 - FastAI
 - Jupyter Notebook
+- Python3
 
 # Groupe de travail
 
@@ -31,3 +32,19 @@ Recherche sur Google Image puis téléchargement des images via l'extension 'Dow
 Suppression des doublons d'images via le logiciel 'Duplicate Cleaner' : https://www.digitalvolcano.co.uk/duplicatecleaner.html
 
 Suppression des images non pertinentes "à la main".
+
+# Comment effectuer des prédictions avec notre modèle sans l'entrainer à nouveau ?
+
+Prérequis : 
+- FastAI
+- Jupyter Notebook
+- Python3
+
+Etapes :
+- Cloner le repository : `git clone https://github.com/ThomasLpgs/AI-sport-recognition.git`
+- Positionnez vous dans le projet : `cd AI-sport-recognition/`
+- Exécuter un Jupyter Notebook : `jupyter notebook nos_propres_dataset.ipynb`
+- Exécuter les cellules suivantes du Jupyter Notebook : 
+  - Import des dépendances de FASTAI
+  - Chargement de notre modèle
+  - Prédiction
