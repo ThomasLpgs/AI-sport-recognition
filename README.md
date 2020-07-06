@@ -23,3 +23,11 @@ Le projet associé à ce site web est disponible ici : https://github.com/jocont
 - SEVRAIN Florian
 - LASPOUGEAS Thomas
 - CONTE Jonathan
+
+# Constitution du dataset
+
+Recherche sur Google Image puis téléchargement des images via l'extension 'Download All Images' : https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm
+
+Suppression des doublons d'images via le logiciel 'Duplicate Cleaner' : https://www.digitalvolcano.co.uk/duplicatecleaner.html
+
+Suppression des images non pertinentes "à la main".
